@@ -1,5 +1,5 @@
 # Weekend-Homework
-A collection of small edabit and instructor provided assignments to keep us thinking on weekends.  In the code, each assignment will be preceeded by a date, description and any other relevant details.  Each weekend assignment will be due at 9am the following Monday.
+A collection of small edabit and instructor provided assignments to keep us thinking on weekends.  In this readme page, each assignment will be documented (edabit instructions and exapmles) preceeded by a date, description and any other relevant details.  Each weekend assignment will be due at 9am the following Monday.
 ----------------------------------------
 *** Edabit challenge 1: Array of Multiples ***
 
